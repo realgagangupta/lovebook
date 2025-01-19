@@ -12,6 +12,19 @@ LoveBook is a simple web application built using the MERN stack (MongoDB, Expres
 - **Protected Route**: Access "See Lover Name" only after login.
 - **MongoDB Atlas**: Cloud database for user data storage.
 
+## Technologies Used
+
+### Backend
+- Node.js
+- Express.js
+- MongoDB Atlas
+- JWT (JSON Web Token)
+- bcrypt (Password Hashing)
+
+### Frontend
+- React.js
+- Axios (HTTP Client)
+
 ## Setup Instructions
 
 1. **Clone the Repository**:
