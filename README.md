@@ -34,7 +34,7 @@ LoveBook is a simple web application built using the MERN stack (MongoDB, Expres
    ```
 2. **Backend Setup**:
    ```bash
-   cd backend
+   cd Backend
    npm install
    ```
    Create a `.env` file with:
@@ -51,9 +51,9 @@ LoveBook is a simple web application built using the MERN stack (MongoDB, Expres
    ```
 3. **Frontend Setup**:
    ```bash
-   cd ../frontend
-   npm install
-   npm start
+   cd ../Frontend/my-app
+   yarn install
+   yarn start
    ```
 
 ## API Endpoints
