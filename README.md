@@ -47,7 +47,7 @@ LoveBook is a simple web application built using the MERN stack (MongoDB, Expres
    ```
    Start the backend:
    ```bash
-   npm start
+   node index.js     
    ```
 3. **Frontend Setup**:
    ```bash
