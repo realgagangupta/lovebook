@@ -26,10 +26,11 @@ LoveBook is a simple web application built using the MERN stack (MongoDB, Expres
    ```
    Create a `.env` file with:
    ```env
-   PORT=5000
-   MONGO_URI=your_mongodb_uri
-   JWT_SECRET=your_jwt_secret
-   COOKIE_EXPIRY=7d
+   MONGODB_URI=your_mongodb_uri
+   JWT_SECRET_KEY=your_jwt_secret
+   NODE_ENV=development or production
+   FRONTEND_URL=http://localhost:3000
+   PORT=4000
    ```
    Start the backend:
    ```bash
